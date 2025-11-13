@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/5Qv5b8n.png" width="100%" />
-</p>
-
 <h1 align="center">⚡ Ronit Khanna ⚡</h1>
 <h3 align="center">Full-Stack & AI Engineer | Java • .NET • FastAPI • Azure AI</h3>
 
@@ -16,7 +12,7 @@
 
 ## 👨‍💻 About Me  
 - 🎓 **Computer Science @ Arizona State University (GPA: 3.8)**  
-- 💼 **Incoming Java Developer Intern @ Indiabulls Securities (2025)**  
+- 💼 **Java Developer Intern @ Indiabulls Securities (2025)**  
 - 💼 Ex-intern at **Samsung Data Systems**, **GMR Group**, and **ASU CSE310 (GSA)**  
 - 🤖 Passionate about **AI integration, distributed systems, backend engineering**  
 - ☁️ Experienced with **Azure AI Vision, Form Recognizer, .NET 8, Spring Boot**  
