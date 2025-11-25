@@ -13,7 +13,7 @@
 ##  About Me  
 -  **Computer Science @ Arizona State University (GPA: 3.8)**  
 -  **Java Developer Intern @ Indiabulls Securities (Jun 2025 – Aug 2025)**  
--  Ex-intern at **Samsung Data Systems**, **GMR Group**, and **ASU CSE310 (GSA)**  
+-  Ex-intern at **Samsung Data Systems**, **GMR Group** 
 -  Passionate about **AI integration, distributed systems, backend engineering**  
 -  Experienced with **Azure AI Vision, Form Recognizer, .NET 8, Spring Boot**  
 -  I love building **education tools, automation systems & AI-powered apps**  
