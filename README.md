@@ -10,18 +10,18 @@
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 **Computer Science @ Arizona State University (GPA: 3.8)**  
-- 💼 **Java Developer Intern @ Indiabulls Securities (Jun 2025 – Aug 2025)**  
-- 💼 Ex-intern at **Samsung Data Systems**, **GMR Group**, and **ASU CSE310 (GSA)**  
-- 🤖 Passionate about **AI integration, distributed systems, backend engineering**  
-- ☁️ Experienced with **Azure AI Vision, Form Recognizer, .NET 8, Spring Boot**  
-- 📚 I love building **education tools, automation systems & AI-powered apps**  
-- 🏆 Dean’s List (4 semesters) • New American University Scholar  
+##  About Me  
+-  **Computer Science @ Arizona State University (GPA: 3.8)**  
+-  **Java Developer Intern @ Indiabulls Securities (Jun 2025 – Aug 2025)**  
+-  Ex-intern at **Samsung Data Systems**, **GMR Group**, and **ASU CSE310 (GSA)**  
+-  Passionate about **AI integration, distributed systems, backend engineering**  
+-  Experienced with **Azure AI Vision, Form Recognizer, .NET 8, Spring Boot**  
+-  I love building **education tools, automation systems & AI-powered apps**  
+-  Dean’s List (4 semesters) • New American University Scholar  
 
 ---
 
-## ⚙️ Tech Stack  
+##  Tech Stack  
 
 ### **Languages**
 <p>
@@ -56,7 +56,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### **Java Developer Intern — Indiabulls Securities (2025)**  
 - Built **CRUD-based Spring Boot + MySQL microservices** for internal financial workflows.  
@@ -77,9 +77,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔹 **HomeaZZon — AI Property Management System**  
+###  **HomeaZZon — AI Property Management System**  
 **C#, .NET 8, Azure Form Recognizer, Azure Vision, SQL, Angular**  
 - Automated extraction of warranty & invoice data using Azure Form Recognizer.  
 - Built **Predictive Maintenance module** with controller logic and data-flow diagrams.  
@@ -87,7 +87,7 @@
 
 ---
 
-### 🔹 **AI Study Assistant — Personalized Learning with LLMs**  
+###  **AI Study Assistant — Personalized Learning with LLMs**  
 **Python, FastAPI, MongoDB, OpenAI API, React**  
 - Generates quizzes, summaries, and topic-wise learning content using LLMs.  
 - Implemented modular FastAPI backend + MongoDB vector storage.  
@@ -95,7 +95,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+##  GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronn0905&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronn0905&layout=compact&theme=tokyonight" height="180"/>
@@ -103,7 +103,7 @@
 
 ---
 
-## 🔗 Connect With Me  
+##  Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/ronit-khanna-28b47025b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
