@@ -17,7 +17,7 @@
 -  Passionate about **AI integration, distributed systems, backend engineering**  
 -  Experienced with **Azure AI Vision, Form Recognizer, .NET 8, Spring Boot**  
 -  I love building **education tools, automation systems & AI-powered apps**  
--  Dean’s List (4 semesters) • New American University Scholar  
+-  Dean’s List (6 semesters) • New American University Scholar  
 
 ---
 
