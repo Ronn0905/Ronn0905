@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Ronit Khanna ⚡</h1>
+<h1 align="center"> Ronit Khanna </h1>
 <h3 align="center">Full-Stack & AI Engineer | Java • .NET • FastAPI • Azure AI</h3>
 
 <p align="center">
