@@ -95,14 +95,6 @@
 
 ---
 
-##  GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronn0905&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronn0905&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ##  Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/ronit-khanna-28b47025b">
