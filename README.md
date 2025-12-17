@@ -118,4 +118,4 @@
 
 ---
 
-<p align="center">⚡ Building intelligent systems that merge AI, cloud, and backend engineering — one project at a time.</p>
+<p align="center"> Building intelligent systems that merge AI, cloud, and backend engineering — one project at a time.</p>
