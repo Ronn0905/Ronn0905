@@ -1,8 +1,8 @@
-<h1 align="center"> Ronit Khanna </h1>
-<h3 align="center">Full-Stack & AI Engineer | Java • .NET • FastAPI • Azure AI</h3>
+<h1 align="center">Ronit Khanna</h1>
+<h3 align="center">Full-Stack & Backend Engineer | Java • .NET • FastAPI • Azure AI</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend_Engineering-2962FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
   <img src="https://img.shields.io/badge/Java-SpringBoot-007396?style=for-the-badge&logo=springboot" />
@@ -10,18 +10,18 @@
 
 ---
 
-##  About Me  
--  **Computer Science @ Arizona State University (GPA: 3.8)**  
--  **Java Developer Intern @ Indiabulls Securities (Jun 2025 – Aug 2025)**  
--  Ex-intern at **Samsung Data Systems**, **GMR Group** 
--  Passionate about **AI integration, distributed systems, backend engineering**  
--  Experienced with **Azure AI Vision, Form Recognizer, .NET 8, Spring Boot**  
--  I love building **education tools, automation systems & AI-powered apps**  
--  Dean’s List (6 semesters) • New American University Scholar  
+##  About Me
+-  **Computer Science @ Arizona State University (GPA: 3.9)**
+-  **Java Developer Intern @ Indiabulls Securities (Jun 2025 – Aug 2025)**
+-  Ex-intern at **Samsung Data Systems** and **GMR Group**
+-  Passionate about **AI integration, distributed systems, backend engineering**
+-  Experienced with **Azure AI Vision, Form Recognizer, .NET 8, Spring Boot**
+-  Love building **education tools, automation systems & AI-powered apps**
+-  Dean’s List (6 semesters) • New American University Scholar
 
 ---
 
-##  Tech Stack  
+##  Tech Stack
 
 ### **Languages**
 <p>
@@ -56,46 +56,66 @@
 
 ---
 
-##  Experience
+## 💼 Experience
 
-### **Java Developer Intern — Indiabulls Securities (2025)**  
-- Built **CRUD-based Spring Boot + MySQL microservices** for internal financial workflows.  
-- Refactored backend APIs and resolved production issues for **Dhani Stocks** platform.  
+### **Java Developer Intern — Indiabulls Securities**
+- Built **CRUD-based Spring Boot + MySQL microservices** for internal financial workflows.
+- Refactored backend APIs and debugged production issues for the **Dhani Stocks** platform.
 - Worked in Agile sprints with Git-based CI/CD pipelines.
 
-### **Graduate Service Assistant — ASU CSE310 (Data Structures)**  
-- Mentored **100+ students** in Java algorithms and time–space optimization.  
+### **Graduate Service Assistant — ASU CSE310 (Data Structures)**
+- Mentored **100+ students** in Java algorithms and time–space optimization.
 - Designed quizzes, evaluated projects, and supported academic operations.
 
-### **Cybersecurity Analyst Intern — GMR Group**  
-- Performed **network audits, firewall analysis, and vulnerability scans**.  
+### **Cybersecurity Analyst Intern — GMR Group**
+- Performed **network audits, firewall analysis, and vulnerability scans**.
 - Created incident-response reports improving system reliability.
 
-### **Java Software Developer Intern — Samsung Data Systems**  
-- Developed & tested **RESTful APIs** for enterprise apps handling large-scale data flows.  
+### **Java Software Developer Intern — Samsung Data Systems**
+- Developed & tested **RESTful APIs** for enterprise applications handling large-scale data flows.
 - Collaborated on backend modules using **MVC, Java, and REST**.
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  **HomeaZZon — AI Property Management System**  
-**C#, .NET 8, Azure Form Recognizer, Azure Vision, SQL, Angular**  
-- Automated extraction of warranty & invoice data using Azure Form Recognizer.  
-- Built **Predictive Maintenance module** with controller logic and data-flow diagrams.  
-- Integrated Azure Vision + SQL Server for complete property automation.
+### 🔗 **URL Shortener — Distributed Backend System**
+**Java, Spring Boot, Redis, PostgreSQL, Docker**
+- Designed a **production-ready URL shortening service** for high-throughput traffic.
+- Implemented **Redis caching** achieving **99%+ cache hit rate**, reducing DB load.
+- Added **token bucket rate limiting** to prevent API abuse.
+- Built REST APIs with **Spring Boot** and persistence using **PostgreSQL**.
+- Containerized using **Docker & Docker Compose** with **sub-50ms average latency**.
 
----
-
-###  **AI Study Assistant — Personalized Learning with LLMs**  
-**Python, FastAPI, MongoDB, OpenAI API, React**  
-- Generates quizzes, summaries, and topic-wise learning content using LLMs.  
-- Implemented modular FastAPI backend + MongoDB vector storage.  
-- Built a React UI with interactive chat learning + session tracking.  
+🔗 Repository: https://github.com/Ronn0905/url-shortener
 
 ---
 
-##  Connect With Me  
+### **HomeaZZon — AI Property Management System**
+**C#, .NET 8, Azure Form Recognizer, Azure Vision, SQL, Angular**
+- Automated extraction of warranty & invoice data using Azure Form Recognizer.
+- Built a **Predictive Maintenance** module with controller logic and data-flow diagrams.
+- Integrated Azure Vision + SQL Server for end-to-end property automation.
+
+---
+
+### **AI Study Assistant — Personalized Learning with LLMs**
+**Python, FastAPI, MongoDB, OpenAI API, React**
+- Generates quizzes, summaries, and topic-wise learning content using LLMs.
+- Implemented modular FastAPI backend with MongoDB vector storage.
+- Built a React UI with interactive chat learning and session tracking.
+
+---
+
+## GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronn0905&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronn0905&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/ronit-khanna-28b47025b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
@@ -110,4 +130,6 @@
 
 ---
 
-<p align="center"> Building intelligent systems that merge AI, cloud, and backend engineering — one project at a time.</p>
+<p align="center">
+  Building intelligent systems that merge AI, cloud, and backend engineering — one project at a time.
+</p>
