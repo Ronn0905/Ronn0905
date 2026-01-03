@@ -110,5 +110,4 @@
 
 ---
 
-<p align="center"> Building intelligent systems that merge AI, cloud, and backend engineering — one project at a time.</p>
-Give me my updated readme.d=md
+<p align="center"> Building intelligent systems that merge AI, cloud, and backend engineering one project at a time.</p>
