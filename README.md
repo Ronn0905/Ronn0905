@@ -87,11 +87,14 @@
 
 ---
 
-###  **AI Study Assistant — Personalized Learning with LLMs**  
-**Python, FastAPI, MongoDB, OpenAI API, React**  
-- Generates quizzes, summaries, and topic-wise learning content using LLMs.  
-- Implemented modular FastAPI backend + MongoDB vector storage.  
-- Built a React UI with interactive chat learning + session tracking.  
+### Async Job Processing System
+**Python, FastAPI, Redis, OpenAI API**
+
+- Designed a **distributed async job processing system** handling **1000+ tasks/hour** using FastAPI workers and a Redis-backed queue.
+- Implemented **idempotency keys**, **distributed locking**, and **exponential retry** logic achieving **99.5% job success rate**.
+- Built **failure tracking** and a **dead-letter queue (DLQ)** to enable safe reprocessing and debugging of failed jobs.
+- Integrated **OpenAI API** with **result caching**, reducing duplicate API calls by **~70%**.
+
 
 ---
 
